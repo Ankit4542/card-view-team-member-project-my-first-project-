@@ -67,15 +67,3 @@
     text-align: center; /* Center text */
 }
 
-/* Responsive Layout */
-@media (min-width: 768px) {
-    .item {
-        width: 48%; /* 2 columns */
-    }
-}
-
-@media (min-width: 1200px) {
-    .item {
-        width: 22%; /* 4 columns */
-    }
-}
